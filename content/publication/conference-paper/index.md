@@ -1,14 +1,7 @@
 ---
 title: Mining Timing Constraints from Event Logs for Process,  IEEE Computers,
   Systems and Applications Conference, COMPSAC 2020
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: ""
 slides: null
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
@@ -17,7 +10,7 @@ authors:
   - Zhenyu Zhang
   - Chunhui Guo
   - Shangping Ren.
-publication: In *Source Themes Conference*
+publication: ""
 featured: true
 tags:
   - Source Themes
@@ -28,7 +21,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: "#"
 url_project: ""
-publication_short: In *STC*
+publication_short: ""
 url_source: "#"
 url_video: "#"
 date: 2013-07-01T00:00:00Z
