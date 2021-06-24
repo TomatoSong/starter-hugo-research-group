@@ -7,5 +7,5 @@ social:
     link: https://scholar.google.com/citations?user=SlXqNooAAAAJ&hl=en
     icon_pack: ai
     icon: PAGE-BUILDER/#ICONS
-superuser: false
+superuser: true
 ---
