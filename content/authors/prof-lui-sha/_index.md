@@ -8,4 +8,6 @@ social:
     icon_pack: ai
     icon: PAGE-BUILDER/#ICONS
 superuser: true
+user_groups:
+  - Principal Investigators
 ---
