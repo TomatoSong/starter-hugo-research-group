@@ -3,7 +3,7 @@ title: Computational pathophysiology
 date: 2021-06-24T20:31:41.274Z
 draft: false
 featured: false
-external_link: /project-computational
+external_link: /project
 image:
   filename: featured
   focal_point: Smart
@@ -11,8 +11,6 @@ image:
 ---
 <!--StartFragment-->
 
-transforms the informal description of medical knowledge to precise software that *tracks and records* complex disease dynamics. This simplifies the disease management process for clinicians and enables software verification and validation.
-
-
+It transforms the informal description of medical knowledge to precise software that *tracks and records* complex disease dynamics. This simplifies the disease management process for clinicians and enables software verification and validation.
 
 <!--EndFragment-->
