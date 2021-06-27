@@ -14,3 +14,5 @@ hero_media: welcome.jpg
 ---
 
 The Medical Guidance Systems Group
+
+<button>Watch our demos</button>
