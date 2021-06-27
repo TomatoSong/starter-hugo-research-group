@@ -3,12 +3,12 @@ title: Prof. Lui Sha
 
 superuser: true
 
+role: Professor
+
 social:
-  - display:
-      header: false
-    link: https://scholar.google.com/citations?user=SlXqNooAAAAJ&hl=en
+  - icon: google-scholar
     icon_pack: ai
-    icon: PAGE-BUILDER/#ICONS
+    link: https://scholar.google.com/citations?user=SlXqNooAAAAJ&hl=en
 
 user_groups:
   - Principal Investigators
