@@ -3,7 +3,7 @@ title: AI-Enhanced Medical Best Practice Guidance Systems
 date: 2021-06-24T20:30:25.058Z
 draft: false
 featured: false
-external_link: /project-ai
+external_link: /project
 image:
   filename: featured
   focal_point: Smart
