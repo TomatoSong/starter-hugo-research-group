@@ -1,11 +1,11 @@
 ---
-title: Prof. Lui Sha
+title: Prof. Shangping Ren
 
 superuser: true
 
-role: Professor
+role: Co-Pi, Professor
 
-wdight: 10
+wdight: 20
 
 social:
   - icon: google-scholar
