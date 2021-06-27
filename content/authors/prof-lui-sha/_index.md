@@ -1,13 +1,15 @@
 ---
 title: Prof. Lui Sha
-avatar_filename: shaphotozoom.jpg
+
+superuser: true
+
 social:
   - display:
       header: false
     link: https://scholar.google.com/citations?user=SlXqNooAAAAJ&hl=en
     icon_pack: ai
     icon: PAGE-BUILDER/#ICONS
-superuser: true
+
 user_groups:
   - Principal Investigators
 ---
