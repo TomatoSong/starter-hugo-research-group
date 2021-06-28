@@ -15,4 +15,8 @@ hero_media: welcome.jpg
 
 The Medical Guidance Systems Group
 
-<button>Watch our demos</button>
+<button style="width: 180px"><a href="/project">View our Projects</a></button>
+<br />
+<button style="width: 180px"><a href="/demo">Watch our Demos</a></button>
+<br />
+<button style="width: 180px"><a href="/publication">Cite our Publications</a></button>
