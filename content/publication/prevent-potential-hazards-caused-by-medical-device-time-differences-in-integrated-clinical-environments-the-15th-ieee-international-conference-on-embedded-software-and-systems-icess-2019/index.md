@@ -1,7 +1,7 @@
 ---
 title: Prevent Potential Hazards Caused by Medical Device Time Differences in
   Integrated Clinical Environments. The 15th IEEE International Conference on
-  Embedded Software and Systems (ICESS), 2019.
+  Embedded Software and Systems (ICESS).
 publication_types:
   - "0"
 authors:
@@ -15,5 +15,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-06-24T20:48:25.618Z
+date: 2019-06-24T20:48:25.618Z
 ---

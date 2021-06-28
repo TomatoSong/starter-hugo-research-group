@@ -1,6 +1,6 @@
 ---
 title: Model-Driven Design of Clinical Guidance Systems. CoRR abs/1610.06895
-  (2016)  arXiv:1610.06895v1
+   arXiv:1610.06895v1
 publication_types:
   - "0"
 authors:
@@ -13,5 +13,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-06-24T20:55:15.735Z
+date: 2016-06-24T20:55:15.735Z
 ---

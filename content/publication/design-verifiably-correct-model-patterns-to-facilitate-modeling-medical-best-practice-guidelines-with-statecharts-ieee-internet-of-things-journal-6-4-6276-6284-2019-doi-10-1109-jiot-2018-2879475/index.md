@@ -1,7 +1,7 @@
 ---
 title: "Design Verifiably Correct Model Patterns to Facilitate Modeling Medical
   Best Practice Guidelines With Statecharts. IEEE Internet of Things Journal
-  6(4): 6276-6284 (2019)  DOI: 10.1109/JIOT.2018.2879475"
+  6(4): 6276-6284"
 publication_types:
   - "0"
 authors:
@@ -10,11 +10,12 @@ authors:
   - Zhenyu Zhang
   - Shangping Ren
   - Lui Sha
+doi: 10.1109/JIOT.2018.2879475
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-06-24T20:49:10.502Z
+date: 2019-06-24T20:49:10.502Z
 ---
