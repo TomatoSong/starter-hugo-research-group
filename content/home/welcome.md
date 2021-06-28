@@ -25,7 +25,7 @@ The Medical Guidance Systems Group
   text-align: center;
   font-size: 28px;
   padding: 20px;
-  width: 300px;
+  width: 320px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
@@ -57,8 +57,8 @@ The Medical Guidance Systems Group
 }
 </style>
 
-<button class="button" style="vertical-align:middle"><a href="/project">View our Projects</a></button>
+<button class="button" style="vertical-align:middle"><a href="/project" style="color:#bbdefb">View our Projects</a></button>
 <br />
-<button class="button" style="vertical-align:middle"><a href="/demo">Watch our Demos</a></button>
+<button class="button" style="vertical-align:middle"><a href="/demo" style="color:#bbdefb">Watch our Demos</a></button>
 <br />
-<button class="button" style="vertical-align:middle"><a href="/publication">Cite our Publications</a></button>
+<button class="button" style="vertical-align:middle"><a href="/publication" style="color:#bbdefb">Cite our Publications</a></button>
