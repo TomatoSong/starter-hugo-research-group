@@ -1,6 +1,6 @@
 ---
 title: Priti Jani, MD
-role: Director, Simulation & Resuscitation, Pediatric ICU
+role: Director of Pediatric ICU
 superuser: true
 weight: 30
 user_groups:
