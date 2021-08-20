@@ -1,6 +1,6 @@
 ---
 title: Jonathan A. Gehlbach, MD
-role: Medical Co-PI
+role: Pediatric Critical Care Medicine
 bio: ""
 superuser: true
 weight: 10
