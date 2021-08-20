@@ -5,7 +5,7 @@ superuser: true
 
 role: Master of Science in Computer Science
 
-weight: 30
+weight: 130
 
 user_groups:
   - Alumni

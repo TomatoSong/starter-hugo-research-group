@@ -5,7 +5,7 @@ superuser: true
 
 role: Ph. D. of Computer Science
 
-weight: 40
+weight: 50
 
 user_groups:
   - Alumni
