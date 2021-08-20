@@ -10,6 +10,8 @@ title: Medical Guidance Systems Group
 subtitle: ""
 design:
   columns: "1"
+  background:
+    image: aihealthcare.jpg
 hero_media: welcome.jpg
 ---
 
