@@ -1,12 +1,9 @@
 ---
 title: Jonathan A. Gehlbach, MD
-
-superuser: true
-
 role: Medical Co-PI
-
+bio: Pediatric Critical Care Medicine
+superuser: true
 weight: 10
-
 user_groups:
   - Medical Principal Investigators
 ---
