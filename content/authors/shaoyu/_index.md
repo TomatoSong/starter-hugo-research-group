@@ -5,8 +5,8 @@ superuser: true
 
 role: Masters Student
 
-weight: 20
+weight: 50
 
 user_groups:
-  - Grad Students
+  - Students
 ---
