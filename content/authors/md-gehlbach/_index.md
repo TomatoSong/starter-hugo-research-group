@@ -10,8 +10,16 @@ weight: 10
 user_groups:
   - Medical Principal Investigators
 ---
+<!--StartFragment-->
+
 Medical Co-PI
 
 Pediatric Critical Care Medicine
 
+
+
 Assistant Professor of Clinical Pediatrics
+
+
+
+<!--EndFragment-->
