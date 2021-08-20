@@ -1,9 +1,9 @@
 ---
-title: Maryam Rahmaniheris
+title: Andrew Yi-Zong Ou
 
 superuser: true
 
-role: Ph. D. of Computer Science
+role: Ph. D. in Computer Science
 
 weight: 40
 

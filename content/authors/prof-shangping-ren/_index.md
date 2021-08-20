@@ -13,5 +13,5 @@ social:
     link: https://scholar.google.com/citations?user=SlXqNooAAAAJ&hl=en
 
 user_groups:
-  - Principal Investigators
+  - Computer Science Principal Investigators
 ---
