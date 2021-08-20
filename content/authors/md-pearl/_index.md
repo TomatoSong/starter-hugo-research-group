@@ -1,7 +1,9 @@
 ---
 title: Richard H. Pearl, MD
 role: Emeritus
-bio: ""
+bio: Director of Pediatric Trauma and Surgeon-in-Chief    Professor of Surgery
+  and Pediatrics    University of Illinois College of Medicine at Peoria <br />
+  Children’s Hospital of Illinois at OSF Saint Francis Medical Center
 superuser: true
 weight: 50
 user_groups:
