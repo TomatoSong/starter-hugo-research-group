@@ -1,11 +1,11 @@
 ---
-title: Jonathan A. Gehlbach, MD
+title: Richard H. Pearl, MD
 
 superuser: true
 
-role: Medical Co-PI
+role: meritus
 
-weight: 10
+weight: 50
 
 user_groups:
   - Medical Principal Investigators

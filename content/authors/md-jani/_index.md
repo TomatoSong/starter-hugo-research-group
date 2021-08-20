@@ -1,11 +1,11 @@
 ---
-title: Jonathan A. Gehlbach, MD
+title: Priti Jani, MD
 
 superuser: true
 
 role: Medical Co-PI
 
-weight: 10
+weight: 30
 
 user_groups:
   - Medical Principal Investigators

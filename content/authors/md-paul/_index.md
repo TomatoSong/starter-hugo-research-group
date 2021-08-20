@@ -1,11 +1,11 @@
 ---
-title: Jonathan A. Gehlbach, MD
+title: Paul M. Jeziorczak, MD
 
 superuser: true
 
 role: Medical Co-PI
 
-weight: 10
+weight: 20
 
 user_groups:
   - Medical Principal Investigators
