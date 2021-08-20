@@ -1,5 +1,5 @@
 ---
-title: Prof. Shangping Ren
+title: Prof. Grigore Rosu
 
 superuser: true
 

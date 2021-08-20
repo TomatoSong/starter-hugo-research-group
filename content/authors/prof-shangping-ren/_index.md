@@ -3,7 +3,7 @@ title: Prof. Shangping Ren
 
 superuser: true
 
-role: Co-Pi, Professor
+role: Medical Guidance System Co-PI
 
 wdight: 20
 

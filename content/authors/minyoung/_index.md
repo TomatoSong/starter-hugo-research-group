@@ -3,7 +3,7 @@ title: Min Young Nam
 
 superuser: true
 
-role: Ph. D. of Computer Science
+role: Ph. D. in Computer Science
 
 weight: 50
 

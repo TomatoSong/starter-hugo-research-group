@@ -3,7 +3,7 @@ title: Prof. Lui Sha
 
 superuser: true
 
-role: Professor
+role: Medical Guidance System PI
 
 wdight: 10
 
