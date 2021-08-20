@@ -14,9 +14,6 @@ design:
     image: ""
 hero_media: welcome.jpg
 ---
-
-The Medical Guidance Systems Group
-
 <style>
 .button {
   display: inline-block;
