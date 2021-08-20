@@ -5,7 +5,7 @@ superuser: true
 
 role: Medical AI Lead
 
-wdight: 60
+weight: 60
 
 social:
   - icon: google-scholar

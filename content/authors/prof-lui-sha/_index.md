@@ -5,7 +5,7 @@ superuser: true
 
 role: Medical Guidance System PI
 
-wdight: 10
+weight: 10
 
 social:
   - icon: google-scholar

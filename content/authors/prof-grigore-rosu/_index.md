@@ -5,7 +5,7 @@ superuser: true
 
 role: Formal Verification Lead
 
-wdight: 50
+weight: 50
 
 social:
   - icon: google-scholar
