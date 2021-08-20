@@ -1,7 +1,7 @@
 ---
 title: Richard H. Pearl, MD
-role: Emeritus Director of Pediatric Trauma and Surgeon-in-Chief
-bio: Professor of Surgery and Pediatrics
+role: Emeritus
+bio: ""
 superuser: true
 weight: 50
 user_groups:
