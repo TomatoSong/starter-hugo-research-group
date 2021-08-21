@@ -3,7 +3,7 @@ title: Prof. Lui Sha
 
 superuser: true
 
-role: Medical Guidance System PI <br> position2
+role: Medical Guidance System PI <br> <br> <br> Donald B. Gillies Chair Professor of Computer Science <br> University of Illinois at Urbana-Champaign
 
 weight: 10
 
