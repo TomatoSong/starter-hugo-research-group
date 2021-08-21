@@ -67,7 +67,7 @@ header:
       </p>
       <h3 style="margin-top:10px">
         <a href="/courses/psepsis/">
-          Pediatric Advanced Cardiovascular Life Support
+          Pediatric Sepsis
         </a>
       </h3>
       <p style="font-size:16px">
@@ -83,7 +83,7 @@ header:
         early detection, diagnosis, and treatment of pediatric sepsis.
       </p>
       <h3 style="margin-top:10px">
-        <a>
+        <a style="color:#bbdefb">
           COVID-19 Acute Respiratory Distress Syndrome
         </a>
       </h3>
@@ -101,7 +101,7 @@ header:
     </div>
   </div>
   <div>
-    <h2>
+    <h2 style="color:#bbdefb">
       <a>AI-Enhanced Medical Best Practice Guidance Systems</a>
     </h2>
     <div class="article-style">
@@ -119,7 +119,7 @@ header:
     </div>
   </div>
   <div>
-    <h2>
+    <h2 style="color:#bbdefb">
       <a>Software Assurance</a>
     </h2>
     <div class="article-style">
@@ -132,7 +132,7 @@ header:
     </div>
   </div>
   <div>
-    <h2>
+    <h2 style="color:#bbdefb">
       <a>Assumption Management</a>
     </h2>
     <div class="article-style">
