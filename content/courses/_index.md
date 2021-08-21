@@ -11,8 +11,6 @@ header:
 
 <div class="universal-wrapper">
   <div class="article-style" style="overflow:visible">
-    <div class="page-body">
-      <div class="universal-wrapper">
         <div class="article-style">
           <h2 style="color:#bbdefb">Medical Best Practice Guidance System</h2>
           <br />
@@ -154,8 +152,5 @@ header:
             supports in different ICUs.
           </div>
         </div>
-      </div>
-    </div>
   </div>
 </div>;
-
