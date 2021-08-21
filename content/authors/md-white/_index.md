@@ -3,7 +3,8 @@ title: Karen C White, MD, PhD
 
 superuser: true
 
-role: Medical Co-PI
+role: Director of ICU <br> <br> <br> Clinical Assistant Professor <br> Carle Illinois College of Medicine <br> Carle Foundation Hospital
+
 
 weight: 40
 
