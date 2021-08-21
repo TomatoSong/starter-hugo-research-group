@@ -15,7 +15,6 @@ summary: >-
   Our goal is to turn the tide through the research on computational pathophysiology models and use these models to develop medical best practice systems.
 draft: false
 featured: false
-external_link: /project
 image:
   filename: featured
   focal_point: Smart
