@@ -3,7 +3,8 @@ title: Prof. Shuochao Yao
 
 superuser: true
 
-role: Medical AI Lead
+role: Medical AI Lead <br> <br> <br> Assistant professor of Computer Science <br> George Mason University
+
 
 weight: 60
 

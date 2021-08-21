@@ -3,7 +3,7 @@ title: Prof. Grigore Rosu
 
 superuser: true
 
-role: Formal Verification Lead
+role: Formal Verification Lead <br> <br> <br> Professor of Computer Science <br> University of Illinois at Urbana-Champaign
 
 weight: 50
 

@@ -3,7 +3,7 @@ title: Prof. Shangping Ren
 
 superuser: true
 
-role: Medical Guidance System Co-PI
+role: Medical Guidance System Co-PI <br> <br> <br> Professor of Computer Science <br> San Diego State University
 
 weight: 20
 
