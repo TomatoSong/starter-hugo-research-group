@@ -3,6 +3,7 @@ title: Pediatric Sepsis
 summary: Sepsis is life-threatening organ dysfunction caused by a dysregulated host response to infection. Sepsis can rapidly lead to tissue damage, organ failure, and death. According to CDC statistics, every year more than1.7 million adults in the U.S. develop sepsis, and nearly 270,000 die from sepsis. Identification of sepsis in its early stages upon presentation to the emergency department is vital in preventing significant organ injury, prolonged hospitalization, and potentially death. We propose a computerized pediatric sepsis best practice guidance system for early detection, diagnosis, and treatment of pediatric sepsis.
 date: '2021-01-24'
 type: book
+weight: 20
 ---
 
 ## Project Background and Objective
@@ -16,8 +17,7 @@ We propose a computerized pediatric sepsis best practice guidance system for ear
 ## Prototype
 
 The Pediatric Sepsis Best Practice Guidance System is implemented in the form of a guidance that can be accessed via tablet or web URL.
-Maryam’s demo video.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IqlZaHYdT8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Clinical Evaluation
 

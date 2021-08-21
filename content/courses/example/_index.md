@@ -3,6 +3,7 @@ title: Pediatric Advanced Cardiovascular Life Support
 summary: Poor quality cardiopulmonary resuscitation (CPR) is directly linked to detriments in patient morbidity and mortality. Despite advances in resuscitation continuous quality improvement (CQI) programs, in-hospital pediatric arrest survival rates remain low at a median of 36%. Our objective for this research is to develop a Pediatric Advanced Cardiovascular Life Support Guidance System that will uniformly improve the quality of resuscitation events in real-time by functioning as a dynamic cognitive aid, decision support tool and agent promoting adherence to resuscitation algorithms and CRM. We hypothesize the utilization of this system during cardiopulmonary arrests will improve both adherence to guidelines as well as CRM exhibited by team performance. The knowledge gained from this research will further inform the development of dynamic cognitive aids and decision support technology to improve the quality of resuscitation events and team performance in real-time. 
 date: '2021-01-24'
 type: book
+weight: 10
 ---
 
 ## Project Background and Objective
@@ -14,6 +15,10 @@ The joint effort of the UIUC team lead by Prof. Lui Sha and the UChicago Medicin
 ## Prototype
 
 Developed a prototype dynamic electronic decision support tool with an associated visual display that increases adherence to Pediatric Advanced Life Support (PACLS) algorithms. This new prototype is facilitated with flexible multi-platform encapsulation compatibility, integrated with real-time simulation scenario input, well-documented requirements traceability and formal verification capability. 
+
+{{< figure src="pacls1.png" >}}
+
+{{< figure src="pacls2.png" >}}
 
 ## Clinical Evaluation
 

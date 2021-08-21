@@ -56,7 +56,7 @@ hero_media: welcome.jpg
 }
 </style>
 
-<button class="button" style="vertical-align:middle"><a href="/project" style="color:#bbdefb">View our Projects</a></button>
+<button class="button" style="vertical-align:middle"><a href="/courses" style="color:#bbdefb">View our Projects</a></button>
 <br />
 <button class="button" style="vertical-align:middle"><a href="/demo" style="color:#bbdefb">Watch our Demos</a></button>
 <br />
