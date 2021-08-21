@@ -7,12 +7,11 @@ summary: "To verify the correctness of software, we partner with Prof. Grigore
   2) Formal analysis tools (powered by K framework). An implementation of the
   guidance systems that can interact with any GUI applications through a
   standard interface."
-draft: false
 featured: false
-external_link: project
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
 weight: 40
+
+authors: []
 ---

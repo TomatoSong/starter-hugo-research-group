@@ -3,10 +3,10 @@ title: Julie Chen
 
 superuser: true
 
-role: Masters Student
+role: Master of Science in Computer Science
 
-weight: 30
+weight: 130
 
 user_groups:
-  - Grad Students
+  - Alumni
 ---
