@@ -10,11 +10,11 @@ header:
 ---
 
 <div class="universal-wrapper">
+	<style type="text/css">
+		h2 {color:#bbdefb;}
+	</style>
   <div class="article-style">
     <div class="page-body">
-      <div class="universal-wrapper pt-3">
-        <h1>Project</h1>
-      </div>
       <div class="universal-wrapper">
         <div class="article-style">
           <h2>Medical Best Practice Guidance System</h2>
@@ -111,6 +111,7 @@ header:
             powered by c3.ai suite.
           </div>
         </div>
+        
         <div>
           <h2>
             <a href="/courses/ai-enhanced-medical-best-practice-guidance-systems/">
