@@ -10,11 +10,10 @@ title: Medical Guidance Systems Group
 subtitle: ""
 design:
   columns: "1"
+  background:
+    image: ""
 hero_media: welcome.jpg
 ---
-
-The Medical Guidance Systems Group
-
 <style>
 .button {
   display: inline-block;
