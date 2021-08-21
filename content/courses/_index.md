@@ -10,7 +10,7 @@ header:
 ---
 
 <div class="universal-wrapper">
-	<style type="text/css">
+	<style type="text/css" scoped>
 		h2 {color:#bbdefb;}
 	</style>
   <div class="article-style">
@@ -163,4 +163,4 @@ header:
       </div>
     </div>
   </div>
-</div>
+</div>;
