@@ -10,7 +10,7 @@ header:
 ---
 
 <div class="universal-wrapper">
-  <div class="article-style">
+  <div class="article-style" style="overflow:visible">
     <div class="page-body">
       <div class="universal-wrapper">
         <div class="article-style">
@@ -106,7 +106,6 @@ header:
             powered by c3.ai suite.
           </div>
         </div>
-        
         <div>
           <h2>
             <a href="/courses/ai-enhanced-medical-best-practice-guidance-systems/">
@@ -159,3 +158,4 @@ header:
     </div>
   </div>
 </div>;
+
