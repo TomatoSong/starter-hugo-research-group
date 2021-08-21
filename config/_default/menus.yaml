@@ -11,7 +11,7 @@ main:
     url: demo
     weight: 30
   - name: Projects
-    url: project
+    url: courses
     weight: 40
   - name: Publications
     url: publication
