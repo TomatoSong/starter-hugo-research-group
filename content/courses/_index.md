@@ -10,16 +10,13 @@ header:
 ---
 
 <div class="universal-wrapper">
-	<style type="text/css" scoped>
-		h2 {color:#bbdefb;}
-	</style>
   <div class="article-style">
     <div class="page-body">
       <div class="universal-wrapper">
         <div class="article-style">
-          <h2>Medical Best Practice Guidance System</h2>
+          <h2 style="color:#bbdefb">Medical Best Practice Guidance System</h2>
           <br />
-          <span style="font-size:16px">
+          <p style="font-size:16px">
             Medical error is the third leading cause of death in the US. In
             fact, preventable medical errors have been reported to be a lethal
             problem since two decades ago [1][2]. The latest studies have
@@ -28,9 +25,8 @@ header:
             errors are caused by unintended deviation from the clinical best
             practice algorithms during a fast-paced and dynamically changing
             clinical scenario.
-          </span>
-          <br />
-          <span style="font-size:16px">
+          </p>
+          <p style="font-size:16px">
             Our solution to this is computerized clinical guidance systems,
             which is a form of clinical decision support systems that provide
             dynamic guidance and assistance to healthcare practitioners during
@@ -41,15 +37,14 @@ header:
             history, we shall demonstrate that AI-enhanced and computational
             pathophysiology model-based medical best practice guidance systems
             will transform clinical practice.
-          </span>
-          <br />
-          <span style="font-size:16px">
+          </p>
+          <p style="font-size:16px">
             We collaborate with exceptional expert physicians and researchers
             from various hospitals and medical research centers to ensure the
             medical correctness and safety of our computational pathophysiology
             models and conduct clinical evaluations to verify the effectiveness
             of our guidance systems.
-          </span>
+          </p>
         </div>
         <div>
           <h2>
