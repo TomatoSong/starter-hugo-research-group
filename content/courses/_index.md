@@ -66,7 +66,24 @@ header:
         performance in real-time.
       </p>
       <h3 style="margin-top:10px">
-        <a href="/courses/ards/">
+        <a href="/courses/psepsis/">
+          Pediatric Advanced Cardiovascular Life Support
+        </a>
+      </h3>
+      <p style="font-size:16px">
+        Sepsis is life-threatening organ dysfunction caused by a
+        dysregulated host response to infection. Sepsis can rapidly lead to
+        tissue damage, organ failure, and death. According to CDC
+        statistics, every year more than1.7 million adults in the U.S.
+        develop sepsis, and nearly 270,000 die from sepsis. Identification
+        of sepsis in its early stages upon presentation to the emergency
+        department is vital in preventing significant organ injury,
+        prolonged hospitalization, and potentially death. We propose a
+        computerized pediatric sepsis best practice guidance system for
+        early detection, diagnosis, and treatment of pediatric sepsis.
+      </p>
+      <h3 style="margin-top:10px">
+        <a>
           COVID-19 Acute Respiratory Distress Syndrome
         </a>
       </h3>
@@ -81,22 +98,24 @@ header:
         associations using computational pathophysiology and incorporates
         patient status prediction models powered by c3.ai suite.
       </p>
-      <h3 style="margin-top:10px">
-        <a>AI-Enhanced Medical Best Practice Guidance Systems</a>
-      </h3>
-      <p style="font-size:16px">
-        People live longer. Seriously ill patients have multiple chronic
-        diseases. Multiple pathophysiological processes and their interactions
-        must be tracked concurrently. Because of the interactions between organ
-        dysfunctions and drug side effects, the treatment of one organ may
-        worsen the impairment of another organ. Keeping track of the dynamics of
-        complex diseases, e.g., sepsis, mentally is error-prone, especially
-        during handover between medical staff. According to a 2016 study by the
-        CDC, each year at least 1.7 million adults in America develop sepsis.
-        Our goal is to turn the tide through the research on computational
-        pathophysiology models and use these models to develop medical best
-        practice systems.
-      </p>
+    </div>
+  </div>
+  <div>
+    <h2>
+      <a>AI-Enhanced Medical Best Practice Guidance Systems</a>
+    </h2>
+    <div class="article-style">
+      People live longer. Seriously ill patients have multiple chronic
+      diseases. Multiple pathophysiological processes and their interactions
+      must be tracked concurrently. Because of the interactions between organ
+      dysfunctions and drug side effects, the treatment of one organ may
+      worsen the impairment of another organ. Keeping track of the dynamics of
+      complex diseases, e.g., sepsis, mentally is error-prone, especially
+      during handover between medical staff. According to a 2016 study by the
+      CDC, each year at least 1.7 million adults in America develop sepsis.
+      Our goal is to turn the tide through the research on computational
+      pathophysiology models and use these models to develop medical best
+      practice systems.
     </div>
   </div>
   <div>
