@@ -6,8 +6,6 @@ date: '2021-01-24'
 type: book
 ---
 
-{{< toc hide_on="xl" >}}
-
 ## Project Background and Objective
 
 Poor quality cardiopulmonary resuscitation (CPR) is directly linked to detriments in patient morbidity and mortality[1]. In-hospital cardiopulmonary resuscitation events are often fraught with preventable harms; medication errors, systems issues and suboptimal performance by individuals and teams[2]. Despite advances in resuscitation continuous quality improvement (CQI) programs, in-hospital pediatric arrest survival rates remain low at a median of 36% [3]. While we know the features essential for a high-quality resuscitation, we do not know a singular approach to achieve these elements. 
