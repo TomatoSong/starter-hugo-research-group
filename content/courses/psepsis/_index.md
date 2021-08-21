@@ -2,7 +2,7 @@
 date: '2021-01-24'
 type: book
 weight: 20
-summary: ""
+summary: "a"
 ---
 
 ## Project Background and Objective
