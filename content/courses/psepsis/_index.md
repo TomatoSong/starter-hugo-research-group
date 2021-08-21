@@ -1,6 +1,4 @@
 ---
-title: Pediatric Sepsis
-summary: Sepsis is life-threatening organ dysfunction caused by a dysregulated host response to infection. Sepsis can rapidly lead to tissue damage, organ failure, and death. According to CDC statistics, every year more than1.7 million adults in the U.S. develop sepsis, and nearly 270,000 die from sepsis. Identification of sepsis in its early stages upon presentation to the emergency department is vital in preventing significant organ injury, prolonged hospitalization, and potentially death. We propose a computerized pediatric sepsis best practice guidance system for early detection, diagnosis, and treatment of pediatric sepsis.
 date: '2021-01-24'
 type: book
 weight: 20
