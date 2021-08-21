@@ -111,7 +111,6 @@ header:
             powered by c3.ai suite.
           </div>
         </div>
-        
         <div>
           <h2>
             <a href="/courses/ai-enhanced-medical-best-practice-guidance-systems/">
