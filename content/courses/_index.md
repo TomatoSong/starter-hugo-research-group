@@ -83,7 +83,7 @@ header:
         early detection, diagnosis, and treatment of pediatric sepsis.
       </p>
       <h3 style="margin-top:10px">
-        <a style="color:#bbdefb">
+        <a href="/courses/ards/">
           COVID-19 Acute Respiratory Distress Syndrome
         </a>
       </h3>
